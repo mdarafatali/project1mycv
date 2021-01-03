@@ -1,0 +1,80 @@
+body{
+    background-color: aqua;
+    height: auto;
+    width: 100%;
+    overflow: hidden;
+    margin: auto;
+    padding: 0;
+}
+
+.HeaderDiv{
+    height: 200px;
+    width: 100%;
+    margin: auto;
+    padding-top: 10px;
+}
+
+.textdiv{
+    height: 200px;
+    width: 50%;
+    color: blue;
+    margin: auto;
+    padding-left: 120px;
+    text-align: center;
+    float: left;
+}
+
+
+.photodiv{
+    height: 200px;
+    width: 30%;
+    float: left;
+    align-items: center;
+
+}
+
+#normaltext{
+    color: black;
+    font-family: sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+.photodiv img{
+    height: 190px;
+    width: auto;
+    border: black 10px;
+    border-radius: 90%;
+    float: left;
+}
+
+.rullerdiv{
+    height: 1px;
+    width: 800px;
+    margin: auto;
+    
+    background-color: black;
+}
+
+.bodydiv{
+    height: auto;
+    width: 100%;
+    margin: auto;
+}
+
+.shadow{
+    height: 30px;
+    width: 800px;
+    font-size: 24px;
+    font-weight: bold;
+    font-family: sans-serif;
+    margin: auto;
+    margin-top: 20px;
+    background-color: burlywood;
+}
+.description{
+    width: 800px;
+    height: auto;
+    margin: auto;
+    margin-top: 10px;
+}
